@@ -1,4 +1,4 @@
-Team and Contributors
+1. Team and Contributors
 
 D-FENSE
 
@@ -7,7 +7,6 @@ Americo Cunha Jr (team leader) (LNCC - UERJ)
 Paulo Esquef (LNCC)
 
 Emanuelle Paixão (LNCC)
-
 
 2. Repository Structure
 
@@ -43,6 +42,14 @@ Main
          |_> plots
          
      |_> validation4  (see validation 1)
+     
+         |_> matlab
+         
+         |_> spreadsheets
+         
+         |_> plots
+     
+     |_> forecast27  (see validation 1)
      
          |_> matlab
          
